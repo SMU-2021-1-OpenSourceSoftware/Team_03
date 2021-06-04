@@ -1,5 +1,4 @@
-# Team_03 (Edited code.)
-
+# Team 3's Homepage
 
 
 | 이름 | 학번 | GitHubID | Email |
